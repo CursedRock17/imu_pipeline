@@ -1,6 +1,6 @@
 /**
  * \file
- * \brief 
+ * \brief
  * \author Martin Pecka
  * SPDX-License-Identifier: BSD-3-Clause
  * SPDX-FileCopyrightText: Czech Technical University in Prague
@@ -9,7 +9,7 @@
 #include "gtest/gtest.h"
 
 
-#include <tf2/LinearMath/Quaternion.h>
+#include <tf2/LinearMath/Quaternion.hpp>
 #include <tf2_geometry_msgs/tf2_geometry_msgs.hpp>
 
 #include <Eigen/Eigen>
